@@ -84,10 +84,10 @@ Browser-based drone flight simulator built with React &amp; Three.js — 6-DOF d
 ## 🚀 快速开始
 
 ### 方式一：在线玩（最简单）
-直接打开 👉 **https://ermao-web.github.io/dronesim/drone-sim-standalone.html**
+直接打开 👉 **https://ermao-web.github.io/dronesim/**
 
 ### 方式二：下载本地打开
-1. 下载仓库里的 `drone-sim-standalone.html`
+1. 下载仓库里的 `index.html`
 2. 用现代浏览器（Chrome / Edge / Firefox / Safari）直接打开
 3. **全部依赖已内联，无需联网、无需构建**
 
